@@ -1,5 +1,5 @@
-Flask
-Pandas
-Python-Dotenv
-Google GenAI SDK
-Gunicorn
+flask
+pandas
+python-dotenv
+google-genai
+gunicorn
