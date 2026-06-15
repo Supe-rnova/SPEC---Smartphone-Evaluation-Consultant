@@ -1,0 +1,91 @@
+name,brand,price_usd,ram_gb,storage_gb,battery_mah,camera_mp,screen_size_inch,color,use_case,os,chipset,five_g,wireless_charging,nfc,face_id,fast_charge_watts,display_size_inch,display_type,refresh_rate_hz,water_resistance,camera_count,weight_grams
+Samsung Galaxy S24 Ultra,Samsung,1299,12,512,5000,200,6.8,Titanium Black,photography,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,45,6.8,Dynamic AMOLED 2X,120,IP68,5,228
+Samsung Galaxy S24+,Samsung,999,12,256,4900,50,6.7,Cobalt Violet,photography,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,45,6.7,Dynamic AMOLED 2X,120,IP68,5,196
+Samsung Galaxy S24,Samsung,799,8,256,4000,50,6.2,Marble Grey,photography,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,25,6.2,Dynamic AMOLED 2X,120,IP68,5,167
+Samsung Galaxy A55,Samsung,449,8,128,5000,50,6.6,Awesome Navy,everyday,Android 14,Exynos 1480,TRUE,FALSE,TRUE,TRUE,25,6.6,Super AMOLED,120,IP67,4,213
+Samsung Galaxy A35,Samsung,379,6,128,5000,50,6.6,Awesome Iceblue,everyday,Android 14,Exynos 1380,TRUE,FALSE,TRUE,TRUE,25,6.6,Super AMOLED,120,IP67,4,210
+Samsung Galaxy A15,Samsung,199,4,128,5000,50,6.5,Blue Black,budget,Android 14,Helio G99,FALSE,FALSE,TRUE,FALSE,25,6.5,Super AMOLED,90,No,3,197
+Samsung Galaxy M55,Samsung,349,8,256,5000,50,6.7,Emerald Brown,everyday,Android 14,Snapdragon 7 Gen 1,TRUE,FALSE,TRUE,TRUE,45,6.7,Super AMOLED+,120,No,4,198
+Samsung Galaxy F55,Samsung,329,8,128,5000,50,6.7,Apricot Crush,everyday,Android 14,Snapdragon 7 Gen 1,TRUE,FALSE,TRUE,TRUE,25,6.7,Super AMOLED+,120,No,4,196
+Samsung Galaxy Z Fold 5,Samsung,1799,12,512,4400,50,7.6,Phantom Black,productivity,Android 13,Snapdragon 8 Gen 2,TRUE,TRUE,TRUE,TRUE,25,7.6,Dynamic AMOLED 2X,120,IPX8,5,253
+Samsung Galaxy Z Flip 5,Samsung,999,8,256,3700,12,6.7,Mint,everyday,Android 13,Snapdragon 8 Gen 2,TRUE,TRUE,TRUE,TRUE,25,6.7,Dynamic AMOLED 2X,120,IPX8,4,187
+Apple iPhone 15 Pro Max,Apple,1199,8,256,4422,48,6.7,Black Titanium,photography,iOS 17,A17 Pro,TRUE,TRUE,TRUE,TRUE,27,6.7,Super Retina XDR OLED,120,IP68,5,221
+Apple iPhone 15 Pro,Apple,999,8,128,3274,48,6.1,White Titanium,photography,iOS 17,A17 Pro,TRUE,TRUE,TRUE,TRUE,27,6.1,Super Retina XDR OLED,120,IP68,5,187
+Apple iPhone 15 Plus,Apple,899,6,128,4383,48,6.7,Pink,everyday,iOS 17,A16 Bionic,TRUE,TRUE,TRUE,TRUE,20,6.7,Super Retina XDR OLED,60,IP68,4,201
+Apple iPhone 15,Apple,799,6,128,3877,48,6.1,Blue,everyday,iOS 17,A16 Bionic,TRUE,TRUE,TRUE,TRUE,20,6.1,Super Retina XDR OLED,60,IP68,4,171
+Apple iPhone 14,Apple,699,6,128,3279,12,6.1,Midnight,everyday,iOS 16,A15 Bionic,TRUE,TRUE,TRUE,TRUE,20,6.1,Super Retina XDR OLED,60,IP68,4,172
+Apple iPhone 14 Plus,Apple,799,6,128,4325,12,6.7,Starlight,everyday,iOS 16,A15 Bionic,TRUE,TRUE,TRUE,TRUE,20,6.7,Super Retina XDR OLED,60,IP68,4,203
+Apple iPhone SE 3rd Gen,Apple,429,4,64,2018,12,4.7,Red,budget,iOS 15,A15 Bionic,FALSE,TRUE,TRUE,FALSE,20,4.7,Retina IPS LCD,60,IP67,3,144
+Apple iPhone 13,Apple,599,4,128,3227,12,6.1,Green,everyday,iOS 15,A15 Bionic,TRUE,TRUE,TRUE,TRUE,20,6.1,Super Retina XDR OLED,60,IP68,4,174
+Google Pixel 8 Pro,Google,999,12,256,5050,50,6.7,Obsidian,photography,Android 14,Google Tensor G3,TRUE,TRUE,TRUE,TRUE,30,6.7,LTPO OLED,120,IP68,5,213
+Google Pixel 8,Google,699,8,128,4575,50,6.2,Hazel,everyday,Android 14,Google Tensor G3,TRUE,TRUE,TRUE,TRUE,27,6.2,OLED,120,IP68,4,187
+Google Pixel 8a,Google,499,8,128,4492,64,6.1,Obsidian,everyday,Android 14,Google Tensor G3,TRUE,FALSE,TRUE,TRUE,18,6.1,OLED,120,IP67,4,188
+Google Pixel 7a,Google,449,8,128,4385,64,6.1,Snow,everyday,Android 13,Google Tensor G2,TRUE,FALSE,TRUE,TRUE,18,6.1,OLED,90,IP67,4,193
+Google Pixel 7 Pro,Google,799,12,128,5000,50,6.7,Hazel,photography,Android 13,Google Tensor G2,TRUE,TRUE,TRUE,TRUE,23,6.7,LTPO OLED,120,IP68,5,212
+Google Pixel 7,Google,549,8,128,4355,50,6.3,Snow,everyday,Android 13,Google Tensor G2,TRUE,FALSE,TRUE,TRUE,20,6.3,OLED,90,IP68,4,197
+Google Pixel 6a,Google,349,6,128,4410,12,6.1,Sage,budget,Android 12,Google Tensor,FALSE,FALSE,TRUE,FALSE,18,6.1,OLED,60,IP67,3,178
+OnePlus 12,OnePlus,799,12,256,5400,50,6.7,Silky Black,gaming,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,100,6.7,LTPO AMOLED,120,IP65,5,220
+OnePlus 12R,OnePlus,499,8,128,5500,50,6.78,Iron Grey,gaming,Android 14,Snapdragon 8 Gen 1,TRUE,FALSE,TRUE,TRUE,80,6.78,AMOLED,120,IP64,4,207
+OnePlus Nord 4,OnePlus,499,12,256,5500,50,6.74,Mercurial Silver,everyday,Android 14,Snapdragon 7+ Gen 3,TRUE,FALSE,TRUE,TRUE,100,6.74,AMOLED,120,IP65,4,187
+OnePlus Nord CE 4,OnePlus,349,8,128,5500,50,6.7,Celadon Marble,everyday,Android 14,Snapdragon 7 Gen 3,TRUE,FALSE,TRUE,FALSE,100,6.7,AMOLED,120,No,3,187
+OnePlus Nord CE 3 Lite,OnePlus,249,8,128,5000,108,6.72,Pastel Lime,budget,Android 13,Snapdragon 695,FALSE,FALSE,TRUE,FALSE,67,6.72,IPS LCD,120,No,3,195
+OnePlus 11,OnePlus,699,8,128,5000,50,6.7,Titan Black,gaming,Android 13,Snapdragon 8 Gen 2,TRUE,TRUE,TRUE,TRUE,100,6.7,LTPO AMOLED,120,IP64,5,205
+OnePlus Open,OnePlus,1699,16,512,4805,48,7.82,Emerald Dusk,productivity,Android 13,Snapdragon 8 Gen 2,TRUE,TRUE,TRUE,TRUE,67,7.82,LTPO AMOLED,120,IPX4,5,245
+Xiaomi 14 Ultra,Xiaomi,1399,16,512,5000,50,6.73,Black,photography,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,90,6.73,LTPO AMOLED,120,IP68,5,219
+Xiaomi 14,Xiaomi,999,12,256,4610,50,6.36,Black,photography,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,90,6.36,LTPO AMOLED,120,IP68,5,193
+Xiaomi 13T Pro,Xiaomi,799,12,256,5000,50,6.67,Alpine Blue,photography,Android 13,Dimensity 9200+,TRUE,TRUE,TRUE,TRUE,120,6.67,AMOLED,144,IP68,5,206
+Xiaomi 13T,Xiaomi,649,8,256,5000,50,6.67,Meadow Green,everyday,Android 13,Dimensity 8200 Ultra,TRUE,FALSE,TRUE,TRUE,67,6.67,AMOLED,144,IP68,4,193
+Xiaomi Redmi Note 13 Pro+,Xiaomi,449,12,256,5000,200,6.67,Aurora Purple,photography,Android 13,Dimensity 7200 Ultra,TRUE,FALSE,TRUE,TRUE,120,6.67,AMOLED,120,IP68,4,204
+Xiaomi Redmi Note 13 Pro,Xiaomi,349,8,256,5000,200,6.67,Midnight Black,everyday,Android 13,Snapdragon 7s Gen 2,TRUE,FALSE,TRUE,TRUE,67,6.67,AMOLED,120,IP54,4,187
+Xiaomi Redmi Note 13,Xiaomi,299,8,128,5000,108,6.67,Graphite Black,budget,Android 13,Snapdragon 685,FALSE,FALSE,TRUE,FALSE,33,6.67,AMOLED,120,IP54,3,174
+Poco X6 Pro,Xiaomi,299,12,256,5000,64,6.67,Black,gaming,Android 14,Dimensity 8300 Ultra,TRUE,FALSE,TRUE,TRUE,67,6.67,AMOLED,144,IP54,4,186
+Poco F6 Pro,Xiaomi,549,12,256,5000,50,6.67,Black,gaming,Android 14,Snapdragon 8 Gen 2,TRUE,TRUE,TRUE,TRUE,120,6.67,LTPO AMOLED,144,IP64,5,209
+Xiaomi Redmi 13C,Xiaomi,149,4,128,5000,50,6.74,Starlight Black,budget,Android 13,Helio G85,FALSE,FALSE,FALSE,FALSE,18,6.74,IPS LCD,90,No,2,192
+Nothing Phone 2,Nothing,599,12,256,4700,50,6.7,White,everyday,Android 13,Snapdragon 8+ Gen 1,TRUE,TRUE,TRUE,TRUE,45,6.7,LTPO OLED,120,IP54,4,201
+Nothing Phone 2a,Nothing,349,8,128,5000,50,6.7,Black,everyday,Android 14,Dimensity 7200 Pro,TRUE,FALSE,TRUE,TRUE,45,6.7,AMOLED,120,IP54,4,190
+Nothing Phone 1,Nothing,399,8,128,4500,50,6.55,White,everyday,Android 12,Snapdragon 778G+,TRUE,FALSE,TRUE,TRUE,33,6.55,OLED,120,IP53,3,193
+Motorola Edge 50 Pro,Motorola,499,12,256,4500,50,6.7,Black Beauty,everyday,Android 14,Snapdragon 7 Gen 3,TRUE,FALSE,TRUE,TRUE,125,6.7,pOLED,144,IP68,4,186
+Motorola Edge 50,Motorola,399,8,256,4500,50,6.7,Koala Grey,everyday,Android 14,Snapdragon 7s Gen 2,TRUE,FALSE,TRUE,TRUE,68,6.7,pOLED,144,IP68,4,167
+Motorola Edge 50 Fusion,Motorola,349,8,128,5000,50,6.7,Hot Pink,everyday,Android 14,Snapdragon 7s Gen 2,TRUE,FALSE,TRUE,FALSE,68,6.7,pOLED,144,IP68,3,174
+Motorola Moto G84,Motorola,249,12,256,5000,50,6.5,Midnight Blue,budget,Android 13,Snapdragon 695,FALSE,FALSE,TRUE,FALSE,33,6.5,pOLED,120,IP52,3,167
+Motorola Moto G54,Motorola,199,8,256,6000,50,6.5,Pearl Blue,budget,Android 13,Dimensity 7020,FALSE,FALSE,TRUE,FALSE,33,6.5,IPS LCD,120,IP52,3,183
+Motorola Razr 50 Ultra,Motorola,999,12,256,3800,50,6.9,Peach Fuzz,everyday,Android 14,Snapdragon 8s Gen 3,TRUE,TRUE,TRUE,TRUE,45,6.9,pOLED,165,IP48,4,189
+Sony Xperia 1 VI,Sony,1299,12,256,5000,52,6.5,Black,photography,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,30,6.5,OLED,120,IP65,5,192
+Sony Xperia 5 V,Sony,999,8,256,5000,52,6.1,Black,photography,Android 13,Snapdragon 8 Gen 2,TRUE,TRUE,TRUE,TRUE,30,6.1,OLED,120,IP68,5,182
+Sony Xperia 10 VI,Sony,599,6,128,5000,48,6.1,Black,everyday,Android 14,Snapdragon 6 Gen 1,TRUE,FALSE,TRUE,TRUE,30,6.1,OLED,60,IP68,4,164
+Sony Xperia 10 V,Sony,449,6,128,5000,48,6.1,White,everyday,Android 13,Snapdragon 695,FALSE,FALSE,TRUE,TRUE,30,6.1,OLED,60,IP68,3,159
+ASUS ROG Phone 8 Pro,ASUS,1099,24,1024,5500,50,6.78,Phantom Black,gaming,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,65,6.78,AMOLED,165,IP54,5,225
+ASUS ROG Phone 8,ASUS,799,12,256,5500,50,6.78,Rebel Grey,gaming,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,65,6.78,AMOLED,165,IP54,5,225
+ASUS Zenfone 11 Ultra,ASUS,899,12,256,5500,50,6.78,Skyline Blue,everyday,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,65,6.78,AMOLED,144,IP68,5,224
+ASUS Zenfone 10,ASUS,699,8,128,4300,50,5.9,Aurora Green,everyday,Android 13,Snapdragon 8 Gen 2,TRUE,TRUE,TRUE,TRUE,30,5.9,AMOLED,144,IP68,4,172
+Oppo Find X7 Ultra,Oppo,1199,16,512,5000,50,6.82,Sepia Brown,photography,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,100,6.82,LTPO AMOLED,120,IP68,5,221
+Oppo Reno 11 Pro,Oppo,549,12,256,4600,50,6.74,Rock Grey,everyday,Android 14,Dimensity 8200,TRUE,FALSE,TRUE,TRUE,80,6.74,AMOLED,120,IP65,4,190
+Oppo Reno 11,Oppo,449,8,256,5000,64,6.7,Blue,everyday,Android 14,Dimensity 7050,TRUE,FALSE,TRUE,FALSE,67,6.7,AMOLED,120,IP54,4,182
+Oppo A98,Oppo,349,8,256,5000,64,6.72,Cool Black,budget,Android 13,Snapdragon 695,FALSE,FALSE,TRUE,FALSE,67,6.72,IPS LCD,120,No,3,193
+Oppo A58,Oppo,199,8,128,5000,50,6.72,Glowing Black,budget,Android 13,Helio G85,FALSE,FALSE,FALSE,FALSE,33,6.72,IPS LCD,90,No,2,183
+Vivo X100 Pro,Vivo,1099,16,512,5400,50,6.78,Asteroid Black,photography,Android 14,Dimensity 9300,TRUE,TRUE,TRUE,TRUE,100,6.78,LTPO AMOLED,120,IP68,5,225
+Vivo X100,Vivo,799,12,256,5000,50,6.78,Startrail Blue,photography,Android 14,Dimensity 9300,TRUE,TRUE,TRUE,TRUE,120,6.78,LTPO AMOLED,120,IP68,5,218
+Vivo V30 Pro,Vivo,549,12,256,5000,50,6.78,Peacock Green,everyday,Android 14,Snapdragon 7 Gen 3,TRUE,FALSE,TRUE,TRUE,80,6.78,AMOLED,120,IP64,4,186
+Vivo Y200 Pro,Vivo,349,8,128,5000,64,6.67,Sequoia Green,budget,Android 14,Snapdragon 695,FALSE,FALSE,TRUE,FALSE,44,6.67,AMOLED,120,No,3,186
+Realme GT 6,Realme,649,12,256,5500,50,6.78,Fluid Silver,gaming,Android 14,Snapdragon 8s Gen 3,TRUE,TRUE,TRUE,TRUE,120,6.78,LTPO AMOLED,120,IP65,5,199
+Realme GT 5 Pro,Realme,549,12,256,5400,50,6.78,Navigator Beige,gaming,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,100,6.78,LTPO AMOLED,144,IP64,5,218
+Realme 12 Pro+,Realme,399,12,256,5000,50,6.7,Submarine Blue,photography,Android 14,Snapdragon 7s Gen 2,TRUE,FALSE,TRUE,TRUE,67,6.7,AMOLED,120,IP65,4,196
+Realme Narzo 70 Pro,Realme,249,8,128,5000,50,6.67,Glass Green,budget,Android 14,Dimensity 7050,FALSE,FALSE,TRUE,FALSE,45,6.67,AMOLED,120,IP54,3,181
+Honor Magic 6 Pro,Honor,1099,12,512,5600,50,6.8,Black,photography,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,80,6.8,LTPO OLED,120,IP68,5,229
+Honor 90,Honor,499,12,256,5000,200,6.78,Midnight Black,photography,Android 13,Snapdragon 7 Gen 1,TRUE,FALSE,TRUE,TRUE,66,6.78,AMOLED,120,No,4,183
+Honor X9b,Honor,349,8,256,5800,108,6.78,Titanium Silver,everyday,Android 13,Snapdragon 6 Gen 1,FALSE,FALSE,TRUE,FALSE,35,6.78,AMOLED,120,IP53,3,183
+Honor X8b,Honor,249,8,256,4500,108,6.7,Titanium Gold,budget,Android 13,Snapdragon 6 Gen 1,FALSE,FALSE,TRUE,FALSE,35,6.7,AMOLED,90,No,3,166
+Huawei Pura 70 Pro,Huawei,1099,12,512,5050,50,6.8,Black,photography,HarmonyOS 4,Kirin 9010,TRUE,TRUE,TRUE,TRUE,80,6.8,LTPO OLED,120,IP68,5,220
+Huawei Nova 12 Pro,Huawei,649,12,256,4600,60,6.76,Black,photography,HarmonyOS 4,Snapdragon 778G,TRUE,FALSE,TRUE,TRUE,100,6.76,OLED,120,No,4,190
+Fairphone 5,Fairphone,699,8,256,4200,50,6.46,Matte Black,everyday,Android 13,Snapdragon 778G,TRUE,FALSE,TRUE,TRUE,30,6.46,OLED,90,IP55,4,214
+Fairphone 4,Fairphone,499,6,128,3905,48,6.3,Grey,everyday,Android 11,Snapdragon 750G,FALSE,FALSE,TRUE,FALSE,20,6.3,IPS LCD,60,IP54,3,225
+iQOO 12,iQOO,649,12,256,5000,50,6.78,Legend,gaming,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,120,6.78,LTPO AMOLED,144,IP68,5,214
+iQOO Neo 9 Pro,iQOO,449,12,256,4600,50,6.78,Fighter,gaming,Android 14,Snapdragon 8 Gen 2,TRUE,FALSE,TRUE,TRUE,120,6.78,AMOLED,144,No,4,198
+iQOO Z9,iQOO,299,8,128,5000,50,6.67,Graphite,budget,Android 14,Dimensity 7200,FALSE,FALSE,TRUE,FALSE,44,6.67,AMOLED,144,No,3,197
+Nubia Red Magic 9 Pro,Nubia,649,12,256,6000,50,6.8,Transparent,gaming,Android 14,Snapdragon 8 Gen 3,TRUE,TRUE,TRUE,TRUE,80,6.8,AMOLED,165,No,5,229
+Nubia Red Magic 8S Pro,Nubia,549,12,256,6000,50,6.8,Black,gaming,Android 13,Snapdragon 8+ Gen 1,TRUE,TRUE,TRUE,TRUE,65,6.8,AMOLED,120,No,4,228
+Tecno Camon 30 Pro,Tecno,249,8,256,5000,50,6.77,Aqua Rush,budget,Android 14,Dimensity 7020,FALSE,FALSE,TRUE,FALSE,45,6.77,AMOLED,120,IP53,3,186
+Infinix Note 40 Pro,Infinix,199,8,256,5000,108,6.78,Titan Gold,budget,Android 14,Helio G99 Ultra,FALSE,FALSE,TRUE,FALSE,45,6.78,AMOLED,120,No,3,195
+Tecno Spark 20 Pro,Tecno,149,8,128,5000,108,6.67,Magic Skin White,budget,Android 13,Helio G85,FALSE,FALSE,FALSE,FALSE,18,6.67,IPS LCD,90,No,2,193
+TCL 50 XE,TCL,249,6,128,5010,50,6.56,Slate Grey,budget,Android 14,Dimensity 6100+,FALSE,FALSE,TRUE,FALSE,18,6.56,AMOLED,90,No,3,185
+TCL 40 SE,TCL,149,4,64,5000,50,6.75,Midnight Blue,budget,Android 13,Helio G37,FALSE,FALSE,FALSE,FALSE,15,6.75,IPS LCD,60,No,2,187
